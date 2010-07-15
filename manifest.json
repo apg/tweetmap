@@ -1,0 +1,17 @@
+{
+   "name": "Tweetmap",
+   "version": "1.0",
+   "description": "A plugin which creates a popup of special characters for use on Twitter",
+   "background_page": "background.html",
+   "permissions": ["tabs"],
+   "icons": { 
+      "16": "images/icon16.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png"
+   },
+   "page_action": {
+      "default_icon": "images/icon16.png",
+      "default_title": "Bring up a special chracter map",
+      "default_popup": "tweetmap.html"
+   }
+}

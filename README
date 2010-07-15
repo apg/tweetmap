@@ -1,0 +1,10 @@
+Tweetmap
+
+Tweetmap is a Chrome extension which displays a character map icon in the url
+bar when you're on twitter.com. Clicking on the icon will bring up a character
+map.
+
+The character map was taken from http://panmental.de/symbols/
+Icons originally from Tango <http://tango.freedesktop.org/Tango_Desktop_Project>
+
+Code released under the GNU GPL <http://www.gnu.org/licenses/gpl.html>
